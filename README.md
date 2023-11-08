@@ -17,9 +17,7 @@ Model Evaluation
 The performance of the Random Forest regression model was evaluated using the R-squared (R2) metric. An impressive R2 score of 0.84 was achieved, signifying the model's strong predictive capabilities. An R2 score of 1 indicates a perfect prediction, and a score of 0.84 demonstrates that the model can explain a significant portion of the variance in insurance charges.
 
 Repository Structure
-data: This folder contains the dataset used for analysis and modeling.
 notebooks: Jupyter notebooks that detail the data analysis and machine learning process.
-scripts: Python scripts for data preprocessing, model training, and evaluation.
 README.md: This file providing an overview of the project.
 Getting Started
 To replicate and explore this project, you can follow the Jupyter notebooks and Python scripts in the notebooks and scripts directories, respectively. You will need Python and the necessary libraries installed to run the code successfully.
